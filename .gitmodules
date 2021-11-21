@@ -1,6 +1,6 @@
 [submodule "sub/argoat"]
 	path = sub/argoat
-	url = https://github.com/nullgemm/argoat.git
+	url = https://github.com/vidister/argoat.git
 [submodule "sub/configator"]
 	path = sub/configator
 	url = https://github.com/nullgemm/configator.git
